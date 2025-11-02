@@ -66,7 +66,7 @@ So I built this tool. What used to take 30 minutes of squinting at rulers now ta
 
 ```bash
 # Clone the repository
-git clone https://github.com/
+git clone https://github.com/Abdullah-Noor557/MeasureMate-A-Blueprint-Plan-Measurement-Tool
 cd blueprint-measurement-tool
 
 # Install dependencies
