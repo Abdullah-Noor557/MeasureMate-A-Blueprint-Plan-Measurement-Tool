@@ -6,7 +6,7 @@
 
 A powerful, user-friendly desktop application for precise measurements on blueprint images and floor plans. Born from necessity at Team Swift, this tool eliminates the tedious manual process of measuring with rulers or making rough estimates.
 
-![Blueprint Measurement Tool Screenshot](<img width="1919/2" height="1031/2" alt="image" src="https://github.com/user-attachments/assets/f7920589-3dd3-404c-bf68-01b818cc32fd" />)
+![Blueprint Measurement Tool Screenshot](<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/f7920589-3dd3-404c-bf68-01b818cc32fd" />)
 
 ## 📖 The Story
 
